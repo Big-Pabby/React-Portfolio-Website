@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/react-portfolio-website/static/css/main.9b12cc2a.css",
-    "main.js": "/react-portfolio-website/static/js/main.762a6e96.js",
-    "static/js/787.67b99310.chunk.js": "/react-portfolio-website/static/js/787.67b99310.chunk.js",
-    "static/media/Victor_Adekunle.pdf": "/react-portfolio-website/static/media/Victor_Adekunle.0b2fc3d0b13ce758801c.pdf",
-    "static/media/myImage.png": "/react-portfolio-website/static/media/myImage.049278afcb9c8e103eca.png",
-    "index.html": "/react-portfolio-website/index.html",
-    "main.9b12cc2a.css.map": "/react-portfolio-website/static/css/main.9b12cc2a.css.map",
-    "main.762a6e96.js.map": "/react-portfolio-website/static/js/main.762a6e96.js.map",
-    "787.67b99310.chunk.js.map": "/react-portfolio-website/static/js/787.67b99310.chunk.js.map"
+    "main.css": "/React-Portfolio-Website/static/css/main.9b12cc2a.css",
+    "main.js": "/React-Portfolio-Website/static/js/main.81385c87.js",
+    "static/js/787.67b99310.chunk.js": "/React-Portfolio-Website/static/js/787.67b99310.chunk.js",
+    "static/media/Victor_Adekunle.pdf": "/React-Portfolio-Website/static/media/Victor_Adekunle.0b2fc3d0b13ce758801c.pdf",
+    "static/media/myImage.png": "/React-Portfolio-Website/static/media/myImage.049278afcb9c8e103eca.png",
+    "index.html": "/React-Portfolio-Website/index.html",
+    "main.9b12cc2a.css.map": "/React-Portfolio-Website/static/css/main.9b12cc2a.css.map",
+    "main.81385c87.js.map": "/React-Portfolio-Website/static/js/main.81385c87.js.map",
+    "787.67b99310.chunk.js.map": "/React-Portfolio-Website/static/js/787.67b99310.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9b12cc2a.css",
-    "static/js/main.762a6e96.js"
+    "static/js/main.81385c87.js"
   ]
 }
