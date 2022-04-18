@@ -3,6 +3,9 @@ import './portfolio.css'
 import Microsoft from '../../assets/images/microsoft.png'
 import Ephipany from '../../assets/images/ephiphany.png'
 import Greenly from '../../assets/images/greenly.png'
+import Bigi from '../../assets/images/Bigi.png'
+import Robofriends from '../../assets/images/robofriends.png'
+import Coming from '../../assets/images/coming.jpg'
 
 const Portfolio = () => {
   return (
@@ -18,8 +21,19 @@ const Portfolio = () => {
           <h3>Microsoft Landing Page</h3>
           <p>For this project I cloned Microsoft Landing Page with HTML, CSS and Javascript</p>
           <div className="portfolio__item-cta">
-            <a href="https://github.com" className="btn" target='_blank'>Source Code</a>
-            <a href="https://github.com" className="btn btn-primary" target='_blank'>Live Demo</a>
+            <a href="https://github.com/Big-Pabby/Microsoft-Landing-Page" className="btn" target='_blank'>Source Code</a>
+            <a href="https://big-pabby.github.io/Microsoft-Landing-Page/" className="btn btn-primary" target='_blank'>Live Demo</a>
+          </div>
+        </article>
+        <article className="portfolio__item">
+          <div className="portfolio__item-image">
+            <img src={Ephipany} alt="" />
+          </div>
+          <h3>Epiphany E-Commerce Web App with Vue JS</h3>
+          <p>For this project I created an E-commerce web app with HTML, Sass, Vue JS, Node JS, Express JS and PostgresSQL using <a href="#">Stylocity.net</a> as the UI</p>
+          <div className="portfolio__item-cta">
+            <a href="https://github.com/Big-Pabby/stylocity-clone" className="btn" target='_blank'>Source Code</a>
+            <a href="https://big-pabby.github.io/stylocity-clone/" className="btn btn-primary" target='_blank'>Live Demo</a>
           </div>
         </article>
         <article className="portfolio__item">
@@ -35,10 +49,32 @@ const Portfolio = () => {
         </article>
         <article className="portfolio__item">
           <div className="portfolio__item-image">
-            <img src={Ephipany} alt="" />
+            <img src={Robofriends} alt="" />
           </div>
-          <h3>Epiphany E-Commerce Web App with Vue JS</h3>
-          <p>For this project I created an E-commerce web app with HTML, Sass, Vue JS, Node JS, Express JS and PostgresSQL using <a href="#">Stylocity.net</a> as the UI</p>
+          <h3>RoboFriends Web App</h3>
+          <p>For this project I created a Robofriends application for filtering different robots using React JS</p>
+          <div className="portfolio__item-cta">
+            <a href="https://github.com/Big-Pabby/Microsoft-Landing-Page" className="btn" target='_blank'>Source Code</a>
+            <a href="https://big-pabby.github.io/robofriends/" className="btn btn-primary" target='_blank'>Live Demo</a>
+          </div>
+        </article>
+        <article className="portfolio__item">
+          <div className="portfolio__item-image">
+            <img src={Bigi} alt="" />
+          </div>
+          <h3>Bigi Landing Page</h3>
+          <p>For this project I cloned Bigi Website landing page with HTML, CSS, Bootstrap and Javascript</p>
+          <div className="portfolio__item-cta">
+            <a href="https://github.com" className="btn" target='_blank'>Source Code</a>
+            <a href="https://github.com" className="btn btn-primary" target='_blank'>Live Demo</a>
+          </div>
+        </article>
+        <article className="portfolio__item">
+          <div className="portfolio__item-image">
+            <img src={Coming} alt="" />
+          </div>
+          <h3>V-Blogs Website App</h3>
+          <p>For this project I'm working on creating a blogging website where various users can come on and blog using React JS, Node JS, Express JS and PostgresSQL</p>
           <div className="portfolio__item-cta">
             <a href="https://github.com" className="btn" target='_blank'>Source Code</a>
             <a href="https://github.com" className="btn btn-primary" target='_blank'>Live Demo</a>
