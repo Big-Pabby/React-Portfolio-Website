@@ -41,7 +41,7 @@ const Portfolio = () => {
             <img src={Greenly} alt="" />
           </div>
           <h3>Greenly Landing Page</h3>
-          <p>For this project I worked with a Product Designer his name is <a href="https://linkedIn.com">David</a> and created the landing web page with HTML, CSS and Javascript</p>
+          <p>For this project I worked with a Product Designer his name is <a href="https://www.linkedin.com/in/micheal-olamide">Michael Olamide</a> he created the UI design for the page and I worked on the landing web page with HTML, CSS and Javascript</p>
           <div className="portfolio__item-cta">
             <a href="https://github.com" className="btn" target='_blank'>Source Code</a>
             <a href="https://github.com" className="btn btn-primary" target='_blank'>Live Demo</a>
