@@ -1,6 +1,6 @@
 import React from 'react'
 import './about.css'
-import AboutMe from '../../assets/images/about2.jpg'
+import AboutMe from '../../assets/images/about2.png'
 import {FaAward} from 'react-icons/fa'
 import {VscFolderLibrary} from 'react-icons/vsc'
 
@@ -31,7 +31,7 @@ const About = () => {
           </div>
 
           <p>
-            Hi, I'm Victor Adekunle a 400lvl Physics Electronics Student in Federal University of Technology, Akure. Some people know me as Pabby a Full Stack Web Developer that is heavy on the Front End part of the Web. I make use of tools like: HTML/CSS, Javascript, PostgresSQL and other included <a href="#experience">frameworks</a>(click on the frameworks to view), Would love to create lots of exciting Projects for you.
+            Hi thanks for checking out my portfolio, my name is Victor Adekunle also known as Pabby, I'm a Full Stack Web Developer that is heavy on the Front End part of the Web. I make use of tools like: HTML/CSS, Javascript, PostgresSQL and other included <a href="#experience">frameworks</a>(click on the frameworks to view), I am seeking for an entry-level or part time opportunity where I can continue to learn and grow my skills as a web developer. Feel free to connect with me, my DMs are always open!
           </p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
