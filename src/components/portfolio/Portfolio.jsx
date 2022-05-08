@@ -43,8 +43,8 @@ const Portfolio = () => {
           <h3>Greenly Landing Page</h3>
           <p>For this project I worked with a Product Designer his name is <a href="https://www.linkedin.com/in/micheal-olamide">Michael Olamide</a> he created the UI design for the page and I worked on the landing web page with HTML, CSS and Javascript</p>
           <div className="portfolio__item-cta">
-            <a href="https://github.com" className="btn" target='_blank'>Source Code</a>
-            <a href="https://github.com" className="btn btn-primary" target='_blank'>Live Demo</a>
+            <a href="https://github.com/Big-Pabby/Greenly-landing-page" className="btn" target='_blank'>Source Code</a>
+            <a href="https://big-pabby.github.io/Greenly-landing-page/" className="btn btn-primary" target='_blank'>Live Demo</a>
           </div>
         </article>
         <article className="portfolio__item">
@@ -76,8 +76,8 @@ const Portfolio = () => {
           <h3>V-Blogs Website App</h3>
           <p>For this project I'm working on creating a blogging website where various users can come on and blog using React JS, Node JS, Express JS and PostgresSQL</p>
           <div className="portfolio__item-cta">
-            <a href="https://github.com" className="btn" target='_blank'>Source Code</a>
-            <a href="https://github.com" className="btn btn-primary" target='_blank'>Live Demo</a>
+            <a href="https://github.com/Big-Pabby/V-blogs" className="btn" target='_blank'>Source Code</a>
+            <a href="https://big-pabby.github.io/V-blogs/" className="btn btn-primary" target='_blank'>Live Demo</a>
           </div>
         </article>
       </div>

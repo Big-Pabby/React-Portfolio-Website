@@ -21,7 +21,7 @@ const Contact = () => {
             <MdOutlineEmail className='contact__option-icon' />
             <h4>Twitter</h4>
             <h5>@Big__Pabby</h5>
-            <a href="mailto:victoradekunle312@gmail.com" target="_blank">Send a message</a>
+            <a href="https://twitter.com/Big__Pabby" target="_blank">Send a message</a>
           </article>
           <article className="contact__option">
             <BsWhatsapp className='contact__option-icon' />
