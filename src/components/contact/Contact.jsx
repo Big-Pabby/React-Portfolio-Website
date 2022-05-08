@@ -2,6 +2,7 @@ import React from 'react'
 import './contact.css'
 import {MdOutlineEmail} from 'react-icons/md'
 import {BsWhatsapp} from 'react-icons/bs'
+import {FiTwitter} from 'react-icons/fi'
 
 const Contact = () => {
   return (
@@ -18,7 +19,7 @@ const Contact = () => {
             <a href="mailto:victoradekunle312@gmail.com" target="_blank">Send a message</a>
           </article>
           <article className="contact__option">
-            <MdOutlineEmail className='contact__option-icon' />
+            <FiTwitter className='contact__option-icon' />
             <h4>Twitter</h4>
             <h5>@Big__Pabby</h5>
             <a href="https://twitter.com/Big__Pabby" target="_blank">Send a message</a>
